@@ -1,0 +1,6 @@
+#Esto es un archivo de prueba
+pwd whoami
+sleep
+whoami
+sleep
+"cat /etc/issue"

@@ -1,0 +1,12 @@
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\bin\Debug\netstandard2.0\CommandLine.deps.json
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\bin\Debug\netstandard2.0\CommandLine.dll
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\bin\Debug\netstandard2.0\CommandLine.pdb
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\bin\Debug\netstandard2.0\CommandLine.xml
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\netstandard2.0\CommandLine.csprojAssemblyReference.cache
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\netstandard2.0\CommandLine.AssemblyInfoInputs.cache
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\netstandard2.0\CommandLine.AssemblyInfo.cs
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\netstandard2.0\CommandLine.csproj.CoreCompileInputs.cache
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\netstandard2.0\CommandLine.sourcelink.json
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\netstandard2.0\CommandLine.dll
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\netstandard2.0\CommandLine.xml
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\netstandard2.0\CommandLine.pdb

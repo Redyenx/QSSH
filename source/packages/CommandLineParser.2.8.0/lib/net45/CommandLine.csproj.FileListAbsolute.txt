@@ -1,0 +1,11 @@
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\bin\Debug\net45\CommandLine.dll
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\bin\Debug\net45\CommandLine.pdb
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\bin\Debug\net45\CommandLine.xml
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\net45\CommandLine.AssemblyInfoInputs.cache
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\net45\CommandLine.AssemblyInfo.cs
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\net45\CommandLine.csproj.CoreCompileInputs.cache
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\net45\CommandLine.sourcelink.json
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\net45\CommandLine.dll
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\net45\CommandLine.xml
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\net45\CommandLine.pdb
+C:\Users\Sneyder\Source\Repos\commandline\src\CommandLine\obj\Debug\net45\CommandLine.csprojAssemblyReference.cache

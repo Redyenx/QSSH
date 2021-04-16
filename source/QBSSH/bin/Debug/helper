@@ -1,0 +1,7 @@
+--send "C:\Scripts\TestSudo.sh" --command "bash /home/osboxes/TestSudo.sh" --verbose
+--send "C:\Scripts\TestA.sh" "C:\Scripts\TestB.sh" --command "bash /home/osboxes/TestB.sh" --verbose
+qssh --stream "ssh -t  osboxes@192.168.1.190 -p 2222 pwd"
+
+qssh --logging --user osboxes --password osboxes.org --host 192.168.1.188 --port 2222 --profile Server1  --save
+qssh --command pwd  --load Server2 --view
+qssh --command pwd --load Server2 --log --verbose
