@@ -164,14 +164,14 @@ qssh.exe --script --load Server1
 <!-- ROADMAP -->
 ## Hoja de ruta
 
-Consulte los [temas pendientes](https://github.com/Redyenx/QSSH/issues) para obtener una lista de funciones propuestas (y problemas conocidos).
+Consulte los [Temas pendientes](https://github.com/Redyenx/QSSH/issues) para obtener una lista de funciones propuestas (y problemas conocidos).
 
 <!-- CONTACT -->
 ## Contacto
 
 Sneyder Sarmiento - essarmiento@quantic.com.co
 
-Project Link: https://github.com/Redyenx/QSSH](https://github.com/Redyenx/QSSH)
+Project Link: [https://github.com/Redyenx/QSSH](https://github.com/Redyenx/QSSH)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
