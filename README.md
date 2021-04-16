@@ -64,13 +64,6 @@ This section should list any major frameworks that you built your project using.
 * [SSH.Net](https://github.com/sshnet/SSH.NET/)
 
 
-
-<!-- GETTING STARTED -->
-## Primeros pasos
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerrequisitos
 
 QSSH admite los siguientes versiones de .Net Framework:
