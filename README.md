@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Redyenx/QSSH">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,7 +10,7 @@
   <p align="center">
     Utilidad para facilitar la automatización de comandos enviados a través de SSH hacía Linux.
     <br />
-    <a href="https://github.com/Redyenx/QSSH/tree/master/Docs"><strong>Explorar la documentación »</strong></a>
+    <a href="https://github.com/Redyenx/QSSH/tree/master/docs"><strong>Explorar la documentación »</strong></a>
     <br />
     <br />
     ·
