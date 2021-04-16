@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 
-[![Qssh Screen Shot][qssh-screenshot]]
+![Qssh Screen Shot][qssh-screenshot]]
 
 
 Qssh, es una pequeña utilidad desarrollada para facilitar la implementación de procesos y servicios de automatización  mediante el protocolo SSH, simplificando así su alcance y su implementación a través de diversas plataformas de automatización.
@@ -83,7 +83,7 @@ QSSH admite los siguientes versiones de .Net Framework:
 1. Descargue **"qssh.exe"** de la carpeta "install" de este repositorio.
 2. Ubíquelo en un directorio y acceda a este a través de la línea de comando de Windows.
 
-![Qssh Demo][qssh-demo]]
+![Qssh Demo][qssh-demo]
 
 <!-- USAGE EXAMPLES -->
 ## Uso
