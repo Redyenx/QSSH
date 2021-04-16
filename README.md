@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 
-![Qssh Screen Shot][qssh-screenshot]]
+![Qssh Screen Shot][qssh-screenshot]
 
 
 Qssh, es una pequeña utilidad desarrollada para facilitar la implementación de procesos y servicios de automatización  mediante el protocolo SSH, simplificando así su alcance y su implementación a través de diversas plataformas de automatización.
