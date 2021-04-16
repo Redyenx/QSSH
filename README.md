@@ -171,7 +171,7 @@ Consulte los [temas pendientes](https://github.com/Redyenx/QSSH/issues) para obt
 
 Sneyder Sarmiento - essarmiento@quantic.com.co
 
-Project Link: https://github.com/Redyenx/QSSH](https://github.com/Redyenx/QSSH
+Project Link: https://github.com/Redyenx/QSSH](https://github.com/Redyenx/QSSH)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
